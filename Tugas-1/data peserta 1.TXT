@@ -1,6 +1,6 @@
 Data Peserta Sanbercode Bootcamp ReactJS
 1. Nama: Ilham Abdullah
 2. Email: ilhamabdullah@gmail.com
-3. Sistem Operasi yang digunakan: windows-10
+3. Sistem Operasi yang digunakan: Windows-10
 4. Akun Github: ilhamabdlh
 5. Akun Telegram: @Synthfour
